@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">电话拦截</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_button_intercept">拦截记录</string>
+    <string name="tab_button_blackmenu">黑名单</string>
+</resources>
