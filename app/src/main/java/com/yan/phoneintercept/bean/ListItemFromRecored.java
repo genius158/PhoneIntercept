@@ -2,11 +2,19 @@ package com.yan.phoneintercept.bean;
 
 /**
  * Created by Administrator on 2016/5/11.
+<<<<<<< HEAD
  */
 public class ListItemFromRecored {
 
 
     private String  number;
+=======
+ * sdlkflhsdkf
+ */
+public class ListItemFromRecored {
+
+    private String number;
+>>>>>>> 5972359c7bd2ef5a59ec393bac778771e73e3267
 
     public long getTime() {
         return time;
